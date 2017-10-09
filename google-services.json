@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "304463995306",
+    "firebase_url": "https://seputar-ac5a5.firebaseio.com",
+    "project_id": "seputar-ac5a5",
+    "storage_bucket": "seputar-ac5a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304463995306:android:857c0372ea70e195",
+        "android_client_info": {
+          "package_name": "com.nizar.seputarrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304463995306-mbp2b1rpahdvv8l7ojdo4sv8m0i3igks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBVNk-CbslGV6wp4VivkxyEWBIDGkXWnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
